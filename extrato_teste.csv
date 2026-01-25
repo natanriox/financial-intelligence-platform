@@ -1,0 +1,39 @@
+date,description,category,value,type
+01/01/2026,Faturamento Vendas Jan/26 - Loja SP,Vendas Diretas,45850.00,Credito
+02/01/2026,Faturamento E-commerce Jan/26,Vendas Online,27320.00,Credito
+03/01/2026,Pagamento Fornecedores Fio Nylon,Materiais Prima,18975.00,Debito
+04/01/2026,Salários Funcionários Produção,Pessoal,24560.00,Debito
+05/01/2026,Energia Elétrica Fábrica,Utilidades,5840.00,Debito
+06/01/2026,Aluguel Fábrica São Paulo,Imóvel,12800.00,Debito
+07/01/2026,Manutenção Máquinas Tear,Manutenção,4560.00,Debito
+08/01/2026,ICMS a Recolher ST,Governo,8760.00,Debito
+09/01/2026,PIS/COFINS Vendas Jan,Governo,-5420.00,Credito
+10/01/2026,Recebimento Cliente Tapetes RJ,Contas Receber,19800.00,Credito
+11/01/2026,Frete Logística SP-RJ,Logística,3420.00,Debito
+12/01/2026,Internet Fibra Fábrica + Escritório,Utilidades,1560.00,Debito
+13/01/2026,Honorários Contábil Jan/26,Serviços Profissionais,2480.00,Debito
+14/01/2026,Compras Embalagens Cartão,Embalagens,2670.00,Debito
+15/01/2026,Faturamento Loja Física BH,Vendas Diretas,31240.00,Credito
+16/01/2026,INSS Empresa Jan/26,Governo,5230.00,Debito
+17/01/2026,FGTS Funcionários,Pessoal,1860.00,Debito
+18/01/2026,Seguro Máquinas Industriais,Seguros,2890.00,Debito
+19/01/2026,Pagamento Fornecedores Pigmentos,Materiais Prima,12430.00,Debito
+20/01/2026,Receita Juros Aplicação Financeira,Rendimentos,1560.00,Credito
+21/01/2026,Marketing Google Ads Jan/26,Marketing,5670.00,Debito
+22/01/2026,Faturamento Projetos Corporativos,Vendas Diretas,41500.00,Credito
+23/01/2026,Água e Esgoto Fábrica,Utilidades,1230.00,Debito
+24/01/2026,Combustível Frotas Logística,Logística,2980.00,Debito
+25/01/2026,Software ERP Licença Anual,Sistemas,18900.00,Debito
+26/01/2026,IRRF Retido Fonte,Pessoal,2340.00,Debito
+27/01/2026,Recebimento Cliente Hotelaria,Contas Receber,26700.00,Credito
+28/01/2026,Despesa Bancária TED/DOC,Bancárias,890.00,Debito
+29/01/2026,Material Limpeza Fábrica,Despesas Gerais,1560.00,Debito
+30/01/2026,Faturamento Vendas Exportação,Vendas Diretas,38900.00,Credito
+31/01/2026,Contribuição Previdenciária Patronal,Governo,4230.00,Debito
+01/01/2026,13º Salário Proporcional 2025,Pessoal,15600.00,Debito
+05/01/2026,Equipamentos Proteção Individual EPIs,Segurança,2340.00,Debito
+10/01/2026,Curso Treinamento Operadores,Mão de Obra,1890.00,Debito
+15/01/2026,Auditoria Interna Anual,Serviços Profissionais,5670.00,Debito
+20/01/2026,Ferramentas Manutenção,Manutenção,2780.00,Debito
+25/01/2026,Câmeras Vigilância Fábrica,Segurança,4560.00,Debito
+28/01/2026,Consultoria Tributária,Serviços Profissionais,3450.00,Debito
