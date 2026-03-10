@@ -2,7 +2,7 @@
 
 ![Dashboard Preview](https://via.placeholder.com/1200x600/0f172a/ffffff?text=Financial+Intelligence+Platform)
 
-**Análise Financeira Corporativa Universal** - Dashboard C-Level para qualquer empresa brasileira
+**Análise Financeira Corporativa Universal** - Dashboard C-Level 
 
 ## **Funcionalidades Profissionais**
 
