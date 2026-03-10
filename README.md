@@ -1,16 +1,6 @@
-# Financial Intelligence Platform 
-
-![Dashboard Preview](https://via.placeholder.com/1200x600/0f172a/ffffff?text=Financial+Intelligence+Platform)
-
 **Análise Financeira Corporativa Universal** - Dashboard C-Level 
 
-## **Funcionalidades Profissionais**
-
-- **Dashboard Executivo** - KPIs em tempo real (Receita, EBITDA, Capital de Giro)
-- **Previsão Estratégica** - 4 métodos avançados (Média Móvel, Regressão, Exponencial, ARIMA)
-- **Alertas Inteligentes** - Anomalias e variações críticas
-- **Visualizações Interativas** - Sankey, Pizza, Previsões Multi-método
-- **Exportação Profissional** - Relatórios executivos automáticos
+![Dashboard Preview](https://via.placeholder.com/1200x600/0f172a/ffffff?text=Financial+Intelligence+Platform)
 
 ## **Demo Online**
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/seuusuario/financial-intelligence)
